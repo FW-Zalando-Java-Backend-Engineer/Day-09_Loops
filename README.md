@@ -172,7 +172,7 @@ public class NestedExample {
 - **[Java While and Do-While Loops (Oracle)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html)**
 - **[Java For Loop Syntax and Examples](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html)**
 - **[Loops in Java - GeeksForGeeks](https://www.geeksforgeeks.org/loops-in-java/)**
-- [Video Lesson Recording](_will be added later_)
+- [Video Lesson Recording](https://us06web.zoom.us/rec/share/P7Zzy02ZIbV-Ao-SGfUkUtiAnlAnBnP71_Ly2DLH8tpeiAvhKs-0oJ3qDm8yGUm8.vWvufc6_hkn2oDFP)
 - [Lesson Slides: Control Flow Structures](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-09_Loops/blob/main/Control%20Flow%20Structure%20-While%20%26Do-While%20and%20For%20statements.pdf)
 
 ---
